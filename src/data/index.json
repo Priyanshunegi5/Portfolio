@@ -1,0 +1,86 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/almabetter.jpg.png",
+      "title": "RESUME BUILDER",
+      "description": "This is my front-end capstone project which i have completed while learning full stack web devlopment in alma better and i got 80 marks out of 100 for this project",
+      "link": {
+        "title": "OPEN LINK",
+        "url": "https://64c21644c6c3825b0e31fde4--keen-jalebi-3191a7.netlify.app/"
+      }
+    },
+    {
+      "id": "2",
+      "src": "./img/netflix-clone.jpg.png",
+      "title": "Netflix Clone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": {
+        "title": "OPEN LINK",
+        "url": "https://steady-lokum-b7bad5.netlify.app/"
+      }
+    },
+    {
+      "id": "3",
+      "src": "./img/tic-tac-toe.jpg.png",
+      "title": "Tic-tac-toe",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": {
+        "title": "OPEN LINK",
+        "url": "https://priyanshunegi5.github.io/tic-tac-toe/"
+      }
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/alma.jpg",
+      "description": "Gained hands-on experience in front-end frameworks such as Reactjs with backend programming languages such as Node.js and using databases such as MongoDB and Learned about best practices, including user authentication and data encryption, to develop and deploy high-quality and secure web applications and Participating in code reviews and providing constructive feedback to other developers .",
+      "author_name": "ALMA BETTER",
+      "author_designation": "Full stack intern"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/oasis.jpg",
+      "description": "I have been working as a front-end developer at this company , and i have learned the best responsiveness building and logic building process ,i am glad for this oppourtinity ,troubleshooting issues and providing efficient solutions to ensure smooth website functionality and user satisfaction,Collaborated with a team of developers to build responsive and dynamic websites ",
+      "author_name": "OASIS INFOBYTE",
+      "author_designation": "Front-end Developer"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/dovelp.jpg",
+      "description": "I have been working as a full stack web developer and my role is in company is to devlop and maintain web application with respect to responsiveness , i learning many thing  in the  company like about the team management as well as time management as to complete  all the given  task in time. As work from office is the best experience i got to learn from this and i am also learning cloud ,deployment as well as AWS.",
+      "author_name": "DOVELP",
+      "author_designation": "FULL STACK DEVELOPER"
+    }
+  ]
+}
